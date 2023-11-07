@@ -3,10 +3,26 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
-}
+  font-color: rgb(1, 42, 112);
+  }
 
-body {
-  background-color: #FFFFFF;
+h1 {
+  font-size: 32px;
+  
+  }
+  
+  h2 {
+    font-size: 28px;
+  }
+  
+  h3 {
+    font-size: 22px;
+  }
+  
+  body {
+    font-size: 18px;
+    background-color: #FFFFFF;
+  font-color: rgb(1, 42, 112);
 }
 
 header {
@@ -30,12 +46,55 @@ header {
 }
 
 .navigation a {
-  font-size: 24px;
+  font-size: 22px;
   color:rgb(1, 42, 112);
   margin-left: 40px;
   font-weight:500;
   text-decoration: none;
   text-decoration-color: rgb(1, 42, 112);
+  transition: 0.4s;
 }
 
+.navigation a:hover, 
+.navigation_links a.active {
+  color:blue;
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
 
+.hero-area {
+  display: flex;
+  align-items: center;
+  padding: 20px 10%;
+  height: 100vh;
+  
+}
+
+.hero-area-content {
+  margin: 18px 0 32px;
+  max-width: 500px;
+}
+
+.hero-area-content h1 {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 8px;
+}
+
+.hero-area-content h2 {
+  margin-bottom: 16px;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.hero-area-content h3 {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.hero-area-content p {
+  margin: 18px 0px 32px;
+  font-weight: 400;
+  font-size: 18px;
+}
