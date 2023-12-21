@@ -1,5 +1,5 @@
 * {
-  margin: 16px;
+  margin-top: 16px;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
@@ -22,15 +22,13 @@ h1 {
     font-size: 18px;
 }
 
-header {
-
+.header-container {
+display: flex;
+flex-wrap: wrap;
   color: #04459b;
-  width: 100%;
-  padding: 32px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  z-index: 100;
+ justify-content: space-between;
+ 
+
 }
 
 .fullname {
@@ -40,10 +38,14 @@ header {
   text-decoration: none;
 }
 
+.navigation {
+  display: flex;
+  flex-wrap: wrap;
+}
 .navigation a {
   font-size: 22px;
   color: #04459b;
-  margin-left: 40px;
+  margin-left: 10px;
   font-weight: 500;
   text-decoration: none;
   transition: 0.4s;
@@ -60,22 +62,18 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-items: center;
 
 }
 
 .hero-area-content {
-  justify-content: left;
-  margin: 18px 0 32px;
-  max-width: 500px;
-  margin-top: 196px;
-  padding-top: 48px;
-  margin-left: 0px;
-  padding-left: 0px;
+
+
 
 }
 .hero-area-image {
  height: 400px;
- margin: 100px;
+
  border-radius: 100px;
 }
 
