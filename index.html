@@ -15,16 +15,16 @@
 <body>
 
   <!--Header-->
-  <header class="header-container">
-    <a href="#" class="fullname"> Gareth Davies</a>
-
+  <header class="header-container" id="header">
+    <a href="#header" class="fullname"> Gareth Davies</a>
+  
     <!--Navigation-->
     <nav class="navigation">
-      <a href="#" class="navigation_links" id="Home">Home</a>
-      <a href="#" class="navigation_links" id="AboutMe">About</a>
-      <a href="#" class="navigation_links" id="Projects">Projects</a>
-      <a href="#" class="navigation_links" id="ContactMe">Contact</a>
-      <a href="#" class="navigation_links" id="Resume">Resume</a>
+      <a href="#header" class="navigation_links" id="Home">Home</a>
+      <a href="#about" class="navigation_links" id="AboutMe">About</a>
+      <a href="#projects6" class="navigation_links" id="Projects">Projects</a>
+      <a href="#contact" class="navigation_links" id="ContactMe">Contact</a>
+      <a href="#resume" class="navigation_links" id="Resume">Resume</a>
     </nav>
   </header>
 
@@ -42,51 +42,69 @@
 
 
 
-  <div class="about-me">
+  <div class="about-me" id="about">
+    <div class="about-me-item"></div>
     <h2>About</h2>
     <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur laudantium animi cumque iste amet earum
       commodi id illo itaque sequi magnam rem quibusdam optio eum, numquam at perspiciatis? Voluptas, dolores!</p>
   </div>
 
 
-  <h2 id="projects">Projects</h2>
+  <h2 class="projects" id="projects6">Projects</h2>
 
 
   <!--Create container for 6 projects-->
   <div class="project-container">
     <div class="flex-item item-1">
       <h3>Project 1</h3>
-      <p>This project is about ....</p>
+      <img class="project-images" src="./assets/02-portfolio-1.jpg">
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
     </div>
     <div class="flex-item item-2">
       <h3>Project 2</h3>
-      <img class="project-images" src="./assets/02-portfolio-1.jpg">
-      <p>This project is about...</p>
+      <img class="project-images" src="./assets/02-portfolio-2.jpg">
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
     </div>
     <div class="flex-item item-3">
       <h3>Project 3</h3>
-      <p>This project is about...</p>
+      <img class="project-images" src="./assets/02-portfolio-3.jpg">
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
     </div>
     <div class="flex-item item-4">
       <h3>Project 4</h3>
-      <p>This project is about...</p>
+      <img class="project-images" src="./assets/02-portfolio-4.jpg">
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
     </div>
     <div class="flex-item item-5">
       <h3>Project 5</h3>
-      <p>This project is about...</p>
+      <img class="project-images" src="./assets/02-portfolio-2.jpg">
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
     </div>
     <div class="flex-item item-6">
       <h3>Project 6</h3>
-      <p>This project is about...</p>
+      <img class="project-images" src="./assets/02-portfolio-1.jpg">
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
     </div>
   </div>
 
 
-  <div class="Contact">
-
+  <div class="contact-container" id="contact">
+<div class="contact-me-header"> 
     <h2>Contact Me</h2>
-
+</div>
+<div class="contact-details">
+    <p> gdavies2743@gmail.com</p>
+    <p> 07543 227 222</p>
+</div>
   </div>
+
+  <div class="resume-container" id="resume">
+    <div class="contact-me-header"> 
+        <h2>Resume</h2>
+    </div>
+    <div class="contact-details">
+        <p> Coming soon</p>
+        </div>
 
 </body>
 
