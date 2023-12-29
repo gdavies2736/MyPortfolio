@@ -62,6 +62,10 @@ No Installation necessary.
 
 I was supported to complete this task by the EdX Front End Development Bootcamp Tutors and teaching staff and am grateful for their support and encouragement. <br>
 
+<h3> 6. License </h3>
+
+MIT license. Details can be found in the repository under license.
+
 I used the following additional resources for support. <br>
 
 1. Freecodecamp - https://www.freecodecamp.org <br>
