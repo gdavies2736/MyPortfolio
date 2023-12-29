@@ -16,6 +16,18 @@ The purpose of this project was to create a portfolio to demonstrate my skills a
 
 The portfolio will showcase these projects and have links to deployed web applications, which an employer would be able to visit.
 
+Here are screenshots showing the landing page for my portfolio: 
+
+![image](https://github.com/gdavies2736/MyPortfolio/assets/89836987/b217120b-646a-4a92-8bfd-c5449cc243b4)
+
+![image](https://github.com/gdavies2736/MyPortfolio/assets/89836987/3ccba017-09eb-4706-a689-eedd341afbd2)
+
+![image](https://github.com/gdavies2736/MyPortfolio/assets/89836987/01b99edc-18b0-4f5d-b267-655711e2cf9e)
+
+![image](https://github.com/gdavies2736/MyPortfolio/assets/89836987/daa6c8c9-a88a-4868-be16-dbb2ae07960b)
+
+![image](https://github.com/gdavies2736/MyPortfolio/assets/89836987/b440baef-993d-495d-a596-cb5c425f2bff)
+
 <br>
 
 <h3>2. Issues </h3>
