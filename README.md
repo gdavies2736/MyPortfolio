@@ -8,7 +8,6 @@
 4. Installation <br>
 5. Credits <br>
 6. Licence <br>
-7. Description <br>
 
 <h3> 1. Description </h3>
  
