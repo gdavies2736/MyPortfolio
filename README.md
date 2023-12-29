@@ -42,6 +42,8 @@ Adding to this, I needed to revisit the information I had learnt around flex-con
 
 This project may be useful for anyone wishing to learn more about the front-end development projects I have completed including future employers.
 
+The user can navigate to the different sections of the page by clicking on the top navigation.
+
 It may also be useful for those learning how to build a portfolio using flex-box and understand more about:
 <br>
 1. HTML <br>
