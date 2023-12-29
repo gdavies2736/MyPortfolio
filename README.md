@@ -12,7 +12,7 @@
 
 <h3> 1. Description </h3>
  
-The purpose of this project was to create a portfolio to demonstrate my skills and talents to employers or anyone interested in understanding the front-end development skills I am capable of. When additional projects have been completed, they can then be added to or updated in the portfolio.
+The purpose of this project was to create a responsive portfolio using flex-box to demonstrate my skills and talents to employers or anyone interested in understanding the front-end development skills I am capable of. When additional projects have been completed, they can then be added to or updated in the portfolio.
 
 The portfolio will showcase these projects and have links to deployed web applications, which an employer would be able to visit.
 
